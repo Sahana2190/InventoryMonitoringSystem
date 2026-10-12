@@ -196,7 +196,7 @@ Potential improvements include:
 This project was collaboratively developed by:
 
 - **Sahana H.**
-- **Amrutha**
+- **Amrutha S**
 
 ### Project Details
 
