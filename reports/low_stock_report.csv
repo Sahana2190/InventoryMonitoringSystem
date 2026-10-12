@@ -1,0 +1,4 @@
+product_id,name,category,quantity,reorder_level,unit_price,inventory_value,stock_status,reorder_quantity
+P101,Laptop,Electronics,8,10,45000.0,360000.0,LOW_STOCK,2
+P103,Keyboard,Accessories,4,10,1200.0,4800.0,LOW_STOCK,6
+P104,Monitor,Electronics,0,5,12000.0,0.0,OUT_OF_STOCK,5
